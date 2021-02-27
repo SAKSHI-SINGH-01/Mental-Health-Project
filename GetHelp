@@ -1,0 +1,163 @@
+
+<!DOCTYPE html> 
+<html lang="en"> 
+
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+<title>Get Help - Dyslexia</title> 
+<style> 
+
+body{ 
+background-color: rgb(26, 201, 119); 
+background-attachment: fixed; 
+background: #d4d4bd; 
+margin: 0; 
+text-align: center; 
+} 
+
+.border{ 
+background: #b9aaaa; 
+
+} 
+
+.elements{ 
+background: #998ed6; 
+margin:0; 
+height: 24px; 
+list-style-type: none; 
+padding: 24px 0; 
+margin-left: auto; 
+
+} 
+
+.ele{ 
+display: inline; 
+
+} 
+
+.class{ 
+
+margin-top: 4px; 
+margin-left: 94px; 
+margin-right: 94px; 
+padding: 5px; 
+padding-bottom:0px; 
+width: 50%; 
+height: 450px; 
+color: blue; 
+text-align: left; 
+font-family: sans-serif; 
+font-style: italic; 
+font-size: 1.4vw; 
+
+} 
+
+a{ 
+text-decoration: none; 
+text-transform: capitalize; 
+letter-spacing: 2px; 
+color: white; 
+margin: 0 16px; 
+font-size: 1.5vw; 
+} 
+
+a:hover{ 
+background-color: #c1d5e0; 
+color: rgb(114, 71, 134); 
+} 
+a:active{ 
+font-size: 1.5em; 
+} 
+
+#box{ 
+position:relative; 
+left:270px; 
+} 
+.heading{ 
+text-align:center; 
+} 
+.last{ 
+text-align:right; 
+} 
+</style> 
+
+</head> 
+
+<body> 
+
+<div class="border"> 
+<ul class="elements"> 
+<li class="ele"><a href="/this" target="_blank">Home</a></li> 
+
+<li class="ele"></li><a href="/this" target="_blank">About</a></li> 
+
+<li class="ele"></li><a href="/this" target="_blank">Symptoms</a></li> 
+
+<li class="ele"></li><a href="Achiever'sSection.html" target="_blank">Achiever's Section</a></li> 
+
+<li class="ele"></li><a href="PlusPoints.html" target="_blank">Plus Points</a></li> 
+
+</ul> 
+</div> 
+<br> 
+<br> 
+<div class="heading"><h1>When to diagnose a child for dyslexia?</h1></div> 
+<br> 
+<br>
+<img src="https://media3.picsearch.com/is?8GhN7MZTkroTtuVtvqY9Njg2J_QQtv7374y3C2ptd1I&height=225">
+<br>
+<br>
+<div class="class" id="box">Dyslexia can begin to reveal itself at a young age, and there are preschool evaluations that look at the child’s awareness of the sounds that make up words, and ability at word retrieval. However, Dr. Matthew Cruger, director of the Learning and Development Center at the Child Mind Institute, suggests waiting until kids are at least six years old and have had some formal instruction in reading to seek out a formal evaluation. 
+<br> 
+<br>
+A young person with dyslexia may:
+
+<ul type="circle"> <li>Struggle with learning even simple rhymes</li></ul>
+<ul type="circle"> <li>Have a speech delay</li></ul>
+<ul type="circle"> <li>Have trouble following directions</li></ul>
+<ul type="circle"> <li>Repeat or omit short words such as and, the, but</li></ul>
+<ul type="circle"> <li>Find it difficult to tell left from right</li></ul>
+</div> 
+
+<div class="heading"><h1>How to help kids with dyslexia</h1></div> 
+<br> 
+<div class="class" id="box">A dyslexia diagnosis does not mean your child will never learn to read. Dr. Cruger says there are a number of programs that can help, which might include these features: 
+<br> 
+<ul type="circle"> <li>Multi-sensory instruction in decoding skills</li></ul> 
+<ul type="circle"> <li>Repetition and review of skills</li></ul> 
+<ul type="circle"> <li>Intensity of intervention — that is, more than being pulled out of class once a week for extra help</li></ul> 
+<ul type="circle"> <li>Small group or individual instruction</li></ul> 
+<ul type="circle"> <li>Teaching decoding skills</li></ul> 
+<ul type="circle"> <li>Drilling sight words</li></ul> 
+<ul type="circle"> <li>Teaching comprehension strategies, to help kids derive meaning from what they’re reading</ul> 
+</div> 
+<div class="heading"><h1> Various ways to support a child with dyslexia</h1></div> 
+
+<div class="class" id="box">One of the best ways to support a child with dyslexia — or any child who is struggling — is to encourage those activities that she likes and feels good at, whether it is music, joining a sports team or anything else that helps build her confidence. 
+<br> 
+To help reinforce that dyslexia is not a marker of intelligence, it can also be helpful to talk about successful people who have also been diagnosed with dyslexia. 
+<br> 
+<br> 
+Other things that may help your child with dyslexia include: 
+<br> 
+<ul type="circle"> <li>Listening to audio books as an alternative to reading</li></ul> 
+<ul type="circle"> <li>Typing on a computer or tablet instead of writing</li></ul> 
+<ul type="circle"> <li>Apps that can make learning fun by turning decoding into a game</li></ul> 
+<ul type="circle"> <li>Using a ruler to help kids read in a straight line, which can help keep them focused</li></ul></div> 
+<div class="heading"><h1>Emotional support</h1></div> 
+
+<div class="class" id="box">Dyslexia can result in frustration, embarrassment, avoidance and low self-esteem as a result of difficulties performing tasks that seem to come naturally to others. Demystifying the learning disorder with your child can help him/her develop the tools — and resilience — necessary to manage it, both in school and in social circumstances. Some things you can do to help include: 
+<br> 
+<ul type="circle"> <li>Discuss the specific challenges that result from dyslexia: “You know how you have a hard time reading signs or copying notes from the board? That’s dyslexia.”</li></ul> 
+<ul type="circle"> <li>Acknowledge his/her effort and celebrate hard work, even if there are still mistakes: “I know how difficult that reading homework was. I am so proud of how hard you tried.”</li></ul> 
+<ul type="circle"> <li>Help him/her recognize his strengths: “You showed such great sportsmanship and teamwork in the soccer game the other night, and that was a great goal you scored!”</li></ul> 
+<ul type="circle"> <li>Combat negative self-talk: If your child starts saying things like, “I’m just stupid,” don’t ignore it. Instead, check out these ideas for helping kids who are too hard on themselves.</li></ul></div> 
+<div class="last">For Help Source :<a href="https://childmind.org/article/understanding-dyslexia/" target="_blank">Click Here</a> </div> 
+
+</body> 
+
+</html> 
+
+
