@@ -1,0 +1,161 @@
+
+<!DOCTYPE html> 
+<html lang="en"> 
+
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+<title>Plus Points - Dyslexia</title> 
+<style> 
+
+body{ 
+background-color: rgb(26, 201, 119); 
+background-attachment: fixed; 
+background: #d4d4bd; 
+margin: 0; 
+text-align: center; 
+} 
+
+.border{ 
+background: #b9aaaa; 
+
+} 
+
+.elements{ 
+background: #998ed6; 
+margin:0; 
+height: 24px; 
+list-style-type: none; 
+padding: 24px 0; 
+margin-left: auto; 
+
+} 
+
+.ele{ 
+display: inline; 
+
+} 
+
+.class{ 
+
+margin-top: 4px; 
+margin-left: 94px; 
+margin-right: 94px; 
+padding: 5px; 
+padding-bottom:0px; 
+width: 50%; 
+height: 455px; 
+color: rgb(3, 149, 247); 
+text-align: left; 
+font-family: sans-serif; 
+font-style: italic; 
+font-size: 1.4vw; 
+
+} 
+
+a{ 
+text-decoration: none; 
+text-transform: capitalize; 
+letter-spacing: 2px; 
+color: white; 
+margin: 0 16px; 
+font-size: 1.5vw; 
+} 
+
+a:hover{ 
+background-color: #c1d5e0; 
+color: rgb(114, 71, 134); 
+} 
+a:active{ 
+font-size: 1.5em; 
+} 
+
+#box{ 
+position:relative; 
+left:270px; 
+} 
+.heading{ 
+text-align:center; 
+} 
+.last{ 
+    margin-top:70px;
+text-align:right; 
+color:black;
+} 
+.color{
+    color:rgb(209, 46, 95);
+}
+</style> 
+
+</head> 
+
+<body> 
+
+<div class="border"> 
+<ul class="elements"> 
+<li class="ele"><a href="/this" target="_blank">Home</a></li> 
+
+<li class="ele"></li><a href="/this" target="_blank">About</a></li> 
+
+<li class="ele"></li><a href="/this" target="_blank">Symptoms</a></li> 
+
+<li class="ele"></li><a href="GetHelp.html" target="_blank">Get Help</a></li> 
+
+<li class="ele"></li><a href="Achiever'sSection.html" target="_blank">Achiever's Section</a></li> 
+
+</ul> 
+</div> 
+<br> 
+<br> 
+<div class="heading"><h1>Strengths of Dyslexia</h1></div> 
+<br> 
+<div class="class" id="box">
+    <div class="color"><h3>1. Seeing the bigger picture</h3></div>
+    People with dyslexia often see things more holistically.
+They miss the trees but see the forest.
+
+    <div class="color"><h3>2. Finding the odd one out</h3></div>
+    
+People with dyslexia excel at global visual processing and the detection of impossible figures. Dyslexic scientist Christopher Tonkin described his unusual sensitivity to “things out of place.” Scientists in his line of work must make sense of enormous quantities of visual data and accurately find black hole anomalies.
+
+    <div class="color"><h3>
+        3. Improved pattern recognition</h3></div>
+        People with dyslexia have the ability to see how things connect to form complex systems, and to identify similarities among multiple things. Such strengths are likely to be of particular significance for fields like science and mathematics, where visual representations are key.
+</div>
+<div class="class" id="box">
+    <div class="color"><h3>4. Good spatial knowledge</h3></div>
+    Many people with dyslexia demonstrate better skills at manipulating 3D objects in their mind. Many of the world’s top architects and fashion designers have dyslexia.
+
+    <div class="color"><h3>5. Picture Thinkers</h3></div>
+    People with dyslexia tend to think in pictures rather than words. Research at the University of California has demonstrated children with dyslexia have enhanced picture recognition memory.
+<br>
+Nineteenth-century French sculptor, Auguste Rodin, could stare at paintings in museums by day and paint them from memory at night. His dyslexia meant he could barely read or write by the age of 14, with his reading skills developing much later.
+
+ 
+    <div class="color"><h3>6. Sharper peripheral vision</h3></div>
+    
+People with dyslexia have better peripheral vision than most, meaning they can quickly take in a whole scene. Although it can be hard to focus in on individual words, dyslexia seems to make it easier to see outer edges.
+
+    <div class="color"><h3>7. Business entrepreneurs</h3></div>
+    Did you know that one in three American entrepreneurs have dyslexia?
+Entrepreneurs like Thomas Edison, Henry Ford, Steve Jobs and Charles Schwab were all dyslexic. Perhaps better strategic and creative thinking could provide a real business advantage
+
+    <div class="color"><h3>8. Highly creative</h3></div>
+    
+Many of the world’s most creative actors have dyslexia, such as Johnny Depp, Keira Knighltly and Orlando Bloom.
+
+    <div class="color"><h3>9. Thinking outside the box – problem solving</h3></div>
+    
+Those with dyslexia are well known for having sudden leaps of insight that solve problems with an unorthodox approach.
+This is an intuitive approach to problem solving that can seem like daydreaming. Staring out of the window is how dyslexics work, letting their brain slide into neutral and ease itself around a problem to let connections assemble.
+
+
+
+<div class="last">For Help Source :<a href="https://www.nessy.com/us/parents/dyslexia-information/9-strengths-dyslexia/" target="_blank">Click Here</a> </div> 
+
+</div>
+
+</body> 
+
+</html> 
