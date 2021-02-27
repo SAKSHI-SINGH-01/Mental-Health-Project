@@ -1,0 +1,170 @@
+
+<!DOCTYPE html> 
+<html lang="en"> 
+
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+<title>Achiever's Section - Dyslexia</title> 
+<style> 
+
+body{ 
+background-color: rgb(26, 201, 119); 
+background-attachment: fixed; 
+background: #d4d4bd; 
+margin: 0; 
+text-align: center; 
+} 
+
+.border{ 
+background: #b9aaaa; 
+
+} 
+
+.elements{ 
+background: #998ed6; 
+margin:0; 
+height: 24px; 
+list-style-type: none; 
+padding: 24px 0; 
+margin-left: auto; 
+
+} 
+
+.ele{ 
+display: inline; 
+
+} 
+
+.class{ 
+
+margin-top: 0px; 
+margin-left: 94px; 
+margin-right: 94px; 
+padding: 5px; 
+padding-bottom:0px; 
+width: 50%; 
+height: 255px; 
+color: blue; 
+text-align: left; 
+font-family: sans-serif; 
+font-style: italic; 
+font-size: 1.4vw; 
+
+} 
+
+a{ 
+text-decoration: none; 
+text-transform: capitalize; 
+letter-spacing: 2px; 
+color: white; 
+margin: 0 16px; 
+font-size: 1.5vw; 
+} 
+
+a:hover{ 
+background-color: #c1d5e0; 
+color: rgb(114, 71, 134); 
+} 
+a:active{ 
+font-size: 1.5em; 
+} 
+
+#box{ 
+position:relative; 
+left:270px; 
+} 
+.heading{ 
+text-align:center; 
+} 
+.last{ 
+text-align:right; 
+} 
+</style> 
+
+</head> 
+
+<body> 
+
+<div class="border"> 
+<ul class="elements"> 
+<li class="ele"><a href="/this" target="_blank">Home</a></li> 
+
+<li class="ele"></li><a href="/this" target="_blank">About</a></li> 
+
+<li class="ele"></li><a href="/this" target="_blank">Symptoms</a></li> 
+
+<li class="ele"></li><a href="GetHelp.html" target="_blank">Get Help</a></li> 
+
+<li class="ele"></li><a href="PlusPoints.html" target="_blank">Plus Points</a></li> 
+
+</ul> 
+</div> 
+<br> 
+<br> 
+<div class="heading"><h1>Albert Einstein</h1></div> 
+<br> 
+<img src="http://brainprick.com/wp-content/uploads/2011/09/Albert-Einstein.jpg">
+<br>
+<br>
+<div class="class" id="box">Albert Einstein, synonymous with the word GENIUS and the symbol of INTELLECT, was an extremely late learner and suffered from poor memory of words that resulted into dyslexia in his early childhood. His teachers considered him to be the most unsociable, lazy and daydreamer who was not even worthwhile to have a positive conversation. He failed the entrance of college and could not solve some of the simplest questions whilst in school.
+<br>
+    His views on education:
+    <br>
+    “Most teachers waste their time by asking questions which are intended to discover what a pupil does not know. Whereas the true art of questioning has for its purpose to discover what the pupil knows or is capable of knowing”.
+    <br>
+    “Education is what remains after one has forgotten everything he learned in school”. “The important thing is not to stop questioning.”
+  
+</div> 
+
+<div class="heading"><h1>Thomas Edison</h1></div> 
+<br>
+<img src="http://brainprick.com/wp-content/uploads/2011/09/thomas-edison.jpg">
+<br>
+<br>
+<div class="class" id="box">
+    Thomas Edison, who is known as one of the most brilliant scientists and inventors of all time, was thrown out of school because he was considered a dumb, slow learner with difficulties with words even at the age 12. He was extremely terrible at mathematics, unable to focus, and had difficulty with speech.
+    <br>
+   In the early 1870’s Thomas Edison was much ahead of all the contemporary scientists in electronic developments and inventions. During his lifetime, Edison patented 1,093 inventions. Edison believed in hard work, in his words, his hardwork and determination assisted flourishing his creative ability. He would work twenty hours a day. His famous quote is so relevant, “Genius is one percent inspiration and 99 percent perspiration.”
+</div>
+<div class="heading"><h1> Pablo Picasso</h1></div> 
+<br>
+<img src="http://brainprick.com/wp-content/uploads/2011/09/Pablo-Picasso.jpg">
+<br>
+<br>
+<div class="class" id="box">
+    Pablo, who is considered to be one of the renowned, controversial, and trend-setting art icons, had learning disabilities in his early life. His dyslexic behaviour made his school life very difficult and it troubled him for the rest of his life.
+<br><br>
+Despite the difficulties, Pablo had an incredible talent that he nurtured through sheer hard work. From early childhood, Picasso developed his unique sense on how people desired to be seen and how others perceive them. His paintings illustrated his keen sense of imagination, his emotion, and creativity on human psyche. A prolific painter Pablo Picasso took art to a new level and gave it a distinguished significance. Some of his greatest work includes Old Man with Guitar, and Guernica, The Young Ladies of Avigon and several.
+</div> 
+<div class="heading"><h1>Alexander Graham Bell</h1></div> 
+<br>
+<img src="http://brainprick.com/wp-content/uploads/2011/09/Alexander_Graham_Bell.jpg">
+<br>
+<br>
+<div class="class" id="box">
+    Alexander Graham Bell, a renowned inventor, scientist, engineer and innovator who invented the first practical telephone, was among the geniuses who suffered from learning difficulties in childhood. His father and brother were associated with various researches on elocution and speech as his mother and wife both were deft. Their difficulties led him to invent a hearing device.
+<br>
+<br>
+Some of his remarkable inventions include optical telecommunications, hydrofoils and aeronautics. He became one of the founding members of the National Geographic Society in 1888. He is considered one of the most influential figure for his inventions in human history.
+</div>
+
+<div class="heading"><h1>Agatha Christie</h1></div> 
+<br>
+<img src="http://brainprick.com/wp-content/uploads/2011/09/agatha-christie.jpg">
+<br>
+<br>
+<div class="class" id="box">
+    Dame Agatha Christie, a British novelist, short story writer, suffered from dyslexia in her childhood. She is widely remembered for her famous 66 detective novels and 14 short story collections.
+    According to the Guinness Book of World Records, she is the best-selling novelist of all time with 4 billion copies sold all over the word.
+    <br><br>
+    She herself admitted, “I, myself, was always recognized . . . as the “slow one” in the family. It was quite true, and I knew it and accepted it. Writing and spelling were always terribly difficult for me. My letters were without originality. I was . . . an extraordinarily bad speller and have remained so until this day.”
+    <br>Today she is known as the most successful mystery writer of all time.
+</div>
+<div class="last">For Help Source :<a href="http://brainprick.com/10-successful-and-famous-people-who-had-dyslexia/" target="_blank">Click Here</a> </div> 
+</body> 
+
+</html> 
+
+
